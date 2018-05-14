@@ -3,3 +3,24 @@ body {
 background-color: lime;
     
 }
+
+/* sELEKTOR ZNACZNIKA */
+
+p {
+    
+    color: blueviolet;
+    
+}
+
+/* sELEKTOR ID */
+
+#paragraph {
+    color: brown;
+}
+
+/* łaczenie selektorów */
+
+a, span, div {
+    
+    color: crimson;
+}
